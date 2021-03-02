@@ -12,8 +12,8 @@ import {
 } from "../contexts/ChallengesContext";
 
 interface HomeProps {
-  level: Number,
-  currentExperience: Number,
+  level: number,
+  currentExperience: number,
   challengesCompleted: number,
 }
 
